@@ -1,0 +1,40 @@
+{
+  "settings": {
+      "number_of_shards": 1
+  },
+  "mappings": {
+    "book": {
+      "properties": {
+        "id": { 
+          "type": "keyword" 
+        },
+        "name": { 
+          "type": "keyword",
+          "fields": {
+            "raw": {
+              "type": "text"
+            }
+          }
+        },
+        "description": { 
+          "type": "text" 
+        },
+        "categories": {
+          "type": "nested", 
+          "properties": {
+            "id": { "type": "keyword" },
+            "name": { "type": "keyword" }
+          }
+        },
+        "authors": {
+          "type": "nested", 
+          "properties": {
+            "id": { "type": "keyword" },
+            "name": { "type": "keyword" },
+            "dob": { "type": "date" }
+          }
+        }
+      }
+    }
+  }
+}
