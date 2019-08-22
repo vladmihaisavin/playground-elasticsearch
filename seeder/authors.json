@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "name": "J. K. Rowling",
+    "dob": "1965-07-31"
+  },
+  {
+    "id": "2",
+    "name": "Herman Melville",
+    "dob": "1819-08-01"
+  },
+  {
+    "id": "3",
+    "name": "William Shakespeare",
+    "dob": "1564-04-01"
+  },
+  {
+    "id": "4",
+    "name": "John Branch",
+    "dob": "1837-03-01"
+  },
+  {
+    "id": "5",
+    "name": "Stephen Patch",
+    "dob": "1877-01-01"
+  }
+]

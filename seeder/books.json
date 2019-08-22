@@ -1,0 +1,95 @@
+[
+  {
+    "id": "1",
+    "name": "Harry Potter The Philosopher's Stone (1997)",
+    "description": "Harry Potter and the Philosopher's Stone (released in the United States, India and Pakistan as Harry Potter and the Sorcerer's Stone)[6] is a 2001 fantasy film directed by Chris Columbus and distributed by Warner Bros. Pictures.[5] It is based on J. K. Rowling's 1997 novel of the same name. The film is the first instalment of the Harry Potter film series and was written by Steve Kloves and produced by David Heyman. Its story follows Harry Potter's first year at Hogwarts School of Witchcraft and Wizardry as he discovers that he is a famous wizard and begins his education. The film stars Daniel Radcliffe as Harry Potter, with Rupert Grint as Ron Weasley, and Emma Watson as Hermione Granger. Warner Bros. bought the film rights to the book in 1999 for a reported £1 million ($1.65 million in 1999). Production began in the United Kingdom in 2000, with Chris Columbus being chosen to create the film from a short list of directors that included Steven Spielberg and Rob Reiner. Rowling insisted that the entire cast be British and Irish, and the film was shot at Leavesden Film Studios and historic buildings around the United Kingdom. The film was released to cinemas in the United Kingdom and United States on 16 November 2001. It became a critical and commercial success, grossing $975.1 million at the box office worldwide. The highest-grossing film of 2001, it is the forty-first highest-grossing of all-time (2nd at the time of its release; behind Titanic) and the second most successful instalment of the Harry Potter series behind Deathly Hallows – Part 2. The film was nominated for many awards, including Academy Awards for Best Original Score, Best Art Direction and Best Costume Design. It was followed by seven sequels, beginning with Harry Potter and the Chamber of Secrets in 2002 and ending with Harry Potter and the Deathly Hallows – Part 2 in 2011, nearly ten years after the first film's release.",
+    "authors": [
+      {
+        "id": "1",
+        "name": "J. K. Rowling"
+      }
+    ],
+    "categories": [
+      {
+        "id": "1",
+        "name": "Sci-Fi"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Moby Dick",
+    "description": "Moby-Dick; or, The Whale is an 1851 novel by American writer Herman Melville. The book is sailor Ishmael's narrative of the obsessive quest of Ahab, captain of the whaling ship Pequod, for revenge on Moby Dick, the giant white sperm whale that on the ship's previous voyage bit off Ahab's leg at the knee. A contribution to the literature of the American Renaissance, the work's genre classifications range from late Romantic to early Symbolist. Moby-Dick was published to mixed reviews, was a commercial failure, and was out of print at the time of the author's death in 1891. Its reputation as a 'Great American Novel' was established only in the 20th century, after the centennial of its author's birth.",
+    "authors": [
+      {
+        "id": "2",
+        "name": "Herman Melville"
+      }
+    ],
+    "categories": [
+      {
+        "id": "3",
+        "name": "Tragedy"
+      },
+      {
+        "id": "4",
+        "name": "Adventure"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Hamlet",
+    "description": "The Tragedy of Hamlet, Prince of Denmark, often shortened to Hamlet (/ˈhæmlɪt/), is a tragedy written by William Shakespeare sometime between 1599 and 1602. Set in Denmark, the play depicts Prince Hamlet and his revenge against his uncle, Claudius, who has murdered Hamlet's father in order to seize his throne and marry Hamlet's mother.",
+    "authors": [
+      {
+        "id": "3",
+        "name": "William Shakespeare"
+      }
+    ],
+    "categories": [
+      {
+        "id": "3",
+        "name": "Tragedy"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Childhood memories (extended)",
+    "description": "Very sweet memories with cherries and trees.",
+    "authors": [
+      {
+        "id": "4",
+        "name": "John Branch"
+      },
+      {
+        "id": "5",
+        "name": "Stephen Patch"
+      }
+    ],
+    "categories": [
+      {
+        "id": "2",
+        "name": "Folk"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Harry Potter The Chamber of Secrets (1999)",
+    "description": "Harry Potter and the Chamber of Secrets is a fantasy novel written by British author J. K. Rowling and the second novel in the Harry Potter series. The plot follows Harry’s second year at Hogwarts School of Witchcraft and Wizardry, during which a series of messages on the walls of the school’s corridors warn that the “Chamber of Secrets” has been opened and that the “heir of Slytherin” would kill all pupils who do not come from all-magical families. These threats are found after attacks which leave residents of the school petrified. Throughout the year, Harry and his friends Ron and Hermione investigate the attacks.",
+    "authors": [
+      {
+        "id": "1",
+        "name": "J. K. Rowling"
+      }
+    ],
+    "categories": [
+      {
+        "id": "1",
+        "name": "Sci-Fi"
+      }
+    ]
+  }
+]

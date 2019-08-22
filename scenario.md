@@ -3,7 +3,7 @@ We have a library with *books*.
 Each book has one/more *authors*.
 Each book can belong to one/more/none categories
 
-We start with **5** books and **3** authors.
+We start with **4** books and **5** authors.
 
 One **book** has the following properties:
 

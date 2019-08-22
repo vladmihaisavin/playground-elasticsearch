@@ -1,8 +1,9 @@
 
+source ./default-env.sh
 echo "deleting indices..."
 
-curl -X DELETE "localhost:9200/authors?pretty" 
-curl -X DELETE "localhost:9200/books?pretty"
-curl -X DELETE "localhost:9200/categories?pretty"
+curl -X DELETE "$ELASTICSEARCH_URL/$AUTHOR_INDEX_NAME?pretty" 
+curl -X DELETE "$ELASTICSEARCH_URL/$BOOK_INDEX_NAME?pretty"
+curl -X DELETE "$ELASTICSEARCH_URL/$CATEGORY_INDEX_NAME?pretty"
 
-echo "done"
+echo "done cleanup."

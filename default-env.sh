@@ -1,0 +1,5 @@
+export VERSION='201908221000'
+export AUTHOR_INDEX_NAME="authors_$VERSION"
+export BOOK_INDEX_NAME="books_$VERSION"
+export CATEGORY_INDEX_NAME="categories_$VERSION"
+export ELASTICSEARCH_URL='localhost:9200'
